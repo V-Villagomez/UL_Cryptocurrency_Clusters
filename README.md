@@ -4,7 +4,9 @@
 
 * As part of the Advisory Services Team of a financial consultancy, a report has been created that includes what cryptocurrencies are on the trading market and determine whether they can be grouped to create a classification system for this new investment.
 
-* I used raw data and implemented unsupervised learning. Used several clustering algorithms to explore whether the cryptocurrencies can be grouped together with other similar cryptocurrencies. 
+* Used raw data and implemented unsupervised learning.  
+
+* Used several clustering algorithms to explore whether the cryptocurrencies can be grouped together with other similar cryptocurrencies.
 
 ## Steps
 
